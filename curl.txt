@@ -1,0 +1,5 @@
+curl -X POST \
+  'http://localhost:3000/upload' \
+  --header 'Accept: */*' \
+  --header 'User-Agent: Thunder Client (https://www.thunderclient.com)' \
+  --form 'file=@/home/dev03/Raghavan/TranslateWords Challenge 1/raghavan/t8.shakespeare.txt'

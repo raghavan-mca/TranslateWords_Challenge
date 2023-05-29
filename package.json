@@ -1,0 +1,24 @@
+{
+  "name": "fbtestwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.338.0",
+    "aws-sdk": "^2.1385.0",
+    "axios": "^1.4.0",
+    "child_process": "^1.0.2",
+    "csv-parser": "^3.0.0",
+    "curlconverter": "^4.7.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
